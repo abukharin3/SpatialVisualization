@@ -1,7 +1,5 @@
 from adjacency import adj_dict
 from preproc import covid19bydate
-# from preproc.census import county_pop, over60, median_age, mean_income
-#from preproc.icu import icubydate
 import pandas as pd
 from datetime import date, timedelta
 from shapely import geometry
